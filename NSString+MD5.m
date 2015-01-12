@@ -2,7 +2,7 @@
 //  NSString+MD5.m
 //  OatosClient
 //
-//  Created by 黄樊 on 13-4-3.
+//  Created by ldl on 13-4-3.
 //  Copyright (c) 2013年 oatos. All rights reserved.
 //
 
