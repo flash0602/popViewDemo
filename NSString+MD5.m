@@ -2,7 +2,7 @@
 //  NSString+MD5.m
 //  OatosClient
 //
-//  Created by ldl on 13-4-3.
+//  Created by ldl on 13-4-3.我在辣妈帮
 //  Copyright (c) 2013年 oatos. All rights reserved.
 //
 
